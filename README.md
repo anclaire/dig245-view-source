@@ -13,7 +13,7 @@ Learn how to use Dev Tools!
 
 #### Code
 - [ ] Use HTML, CSS, and JS to code your design inside `index.html`
-- [ ] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
+- [X] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
 - [ ] Style your page with CSS using a `style` tag in the `head`
 - [ ] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
 - [ ] Using an unordered list, write three *other* things you can do with the Dev Tools.
