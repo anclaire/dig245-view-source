@@ -1,4 +1,33 @@
 
 /* css */
 
-.myClass { color: blue; }
+h1 {
+  font-size: 50px;
+  color: #366775;
+  text-align: center;
+}
+h4 {
+  font-size: 24px;
+  color: #365D75;
+}
+normal-text {font-size: 18px;
+  color:#003945;
+}
+
+body {
+  font-family: Georgia;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
