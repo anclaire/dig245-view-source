@@ -2,30 +2,28 @@
 /* css */
 
 h1 {
+  font-family: Arial;
   font-size: 50px;
   color: #366775;
   text-align: center;
 }
 h4 {
+  font-family: Arial;
   font-size: 24px;
   color: #365D75;
 }
-normal-text {font-size: 18px;
+normal-text {
   color:#003945;
 }
 
 body {
   font-family: Georgia;
+  color:#003945;
+  font-size: 16px;
+  background-color: #FDF2F0;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-
-.figcaption {
+figure {
   display: block;
   margin-left: auto;
   margin-right: auto;

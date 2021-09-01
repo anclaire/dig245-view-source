@@ -15,12 +15,12 @@ Learn how to use Dev Tools!
 - [ ] Use HTML, CSS, and JS to code your design inside `index.html`
 - [X] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
 - [ ] Style your page with CSS using a `style` tag in the `head`
-- [ ] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
-- [ ] Using an unordered list, write three *other* things you can do with the Dev Tools.
-- [ ] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”). Explain:
-- [ ] Find a website with interesting content in the console. Add a screenshot and link to the page.
+- [X] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
+- [X] Using an unordered list, write three *other* things you can do with the Dev Tools.
+- [X] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”). Explain:
+- [X] Find a website with interesting content in the console. Add a screenshot and link to the page.
 - [ ] Add your own secret message for curious users to the console using the `script` tag. Experiment with different [`console` methods](https://developer.mozilla.org/en-US/docs/Web/API/console)
-- [ ] Add an image of your favorite animal somewhere on the page.
+- [X] Add an image of your favorite animal somewhere on the page.
 
 #### Publish
 - [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
