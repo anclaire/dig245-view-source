@@ -12,21 +12,21 @@ Learn how to use Dev Tools!
 - [X] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 #### Code
-- [ ] Use HTML, CSS, and JS to code your design inside `index.html`
+- [X] Use HTML, CSS, and JS to code your design inside `index.html`
 - [X] Add appropriate structural HTML tags (doctype, html, head, body, etc.)
-- [ ] Style your page with CSS using a `style` tag in the `head`
+- [X] Style your page with CSS using a `style` tag in the `head` (or style.css)
 - [X] Using an ordered list, write step by step instructions for viewing the source code of a web page in your favorite browser. Include the name of the browser.
 - [X] Using an unordered list, write three *other* things you can do with the Dev Tools.
 - [X] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”). Explain:
 - [X] Find a website with interesting content in the console. Add a screenshot and link to the page.
-- [ ] Add your own secret message for curious users to the console using the `script` tag. Experiment with different [`console` methods](https://developer.mozilla.org/en-US/docs/Web/API/console)
+- [X] Add your own secret message for curious users to the console using the `script` tag. Experiment with different [`console` methods](https://developer.mozilla.org/en-US/docs/Web/API/console)
 - [X] Add an image of your favorite animal somewhere on the page.
 
 #### Publish
 - [X] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 - [X] Commit changes regularly.
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+- [X] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
+- [X] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
@@ -37,7 +37,7 @@ Learn how to use Dev Tools!
 - [ ] Did you look at source code to make something this semester? Write about it.
 - [ ] Why is it important to see how things you consume are constructed? What are the larger sociological arguments for transparency? Think about ingredients in the food you eat or chemicals from a factory or how laws are made for example. -->
 
-
+<!-- Was I supposed to answer these questions? I thought about them... -->
 
 <details>
 <summary>Grading</summary>
